@@ -13,7 +13,7 @@
 ### Current projects:
 - a scalable dN/dS estimator
 - identification for genomic regions under selection
-- workshops focused on [PR-INBRE Python Workshop](https://github.com/bioinfwithjudith/PR-INBRE_Python_Workshop) and sketching programs
+- workshops focused on [python](https://github.com/bioinfwithjudith/PR-INBRE_Python_Workshop) and sketching programs
 
 ### Past projects:
 - identify robust features of mRNA degradation using feature selection models 
