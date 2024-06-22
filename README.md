@@ -5,7 +5,7 @@
 - Interests:
   - proteome, transcriptome, genomics, metagenomics
   - combining my knowledge for biology and the computational side
-  - introducing and teaching bioinformatic skills to beginners via workshops
+  - introducing and teaching bioinformatic skills to beginners through workshops
 - Contact: jzr5814@psu.edu
 
 ### Current projects:
