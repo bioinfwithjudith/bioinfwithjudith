@@ -6,7 +6,7 @@
   - Majored in Cellular Molecular Biology
 - Interests:
   - proteome, transcriptome, genomics, metagenomics
-  - combining my knowledge for biology and the computational side
+  - connecting biologists and computationalists through collaborative projects
   - introducing and teaching bioinformatic skills to beginners through workshops
 - Contact: jzr5814@psu.edu
 
