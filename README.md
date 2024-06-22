@@ -16,5 +16,6 @@
 - workshops focused on python and sketching programs
 
 ### Past projects:
-- Identify robust features of mRNA degradation using feature selection models 
+- identify robust features of mRNA degradation using feature selection models 
 - [YeasTSS](http://www.yeastss.org)
+- identify unique motifs for biosensor development using multiple sequence alignments
