@@ -1,16 +1,18 @@
-## Hi there 👋
+### About me:
+- Ph.D. Candidate in Bioinformatics and Genomics, part of the [Koslicki](https://koslickilab.github.io/Koslicki-lab-PSU/) Lab 
+  - Master's in Bionformatics and Computational Biology
+  - Majored in Cellular Molecular Biology
+- Interests:
+  - proteome, transcriptome, genomics, metagenomics
+  - combining my knowledge for biology and the computational side
+  - introducing and teaching bioinformatic skills to beginners via workshops
+- Contact: jzr5814@psu.edu
 
-<!--
-**bioinfwithjuju/bioinfwithjuju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Current projects:
+- a scalable dN/dS estimator
+- identification for genomic regions under selection
+- workshops focused on python and sketching programs
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Past projects:
+- Identify robust features of mRNA degradation using feature selection models 
+- [YeasTSS](http://www.yeastss.org)
