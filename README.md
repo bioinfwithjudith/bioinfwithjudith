@@ -5,7 +5,7 @@
   - Master's in Bionformatics and Computational Biology
   - Majored in Cellular Molecular Biology
 - Interests:
-  - proteome, transcriptome, genomics, metagenomics
+  - protein-coding sequences, transcriptome, genomics, metagenomics
   - connecting biologists and computationalists through collaborative projects
   - introducing and teaching bioinformatic skills to beginners through workshops
 - Contact: jzr5814@psu.edu
