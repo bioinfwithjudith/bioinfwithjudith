@@ -11,7 +11,7 @@
 - Contact: jzr5814@psu.edu
 
 ### Current projects:
-- a scalable dN/dS estimator
+- alignment-free dN/dS estimator [FracMinHash dN/dS](https://github.com/KoslickiLab/dnds-using-fmh/blob/dev_jzr2/src/) 
 - identification for genomic regions under selection
 - workshops focused on [python](https://github.com/bioinfwithjudith/PR-INBRE_Python_Workshop) and sketching programs
 
