@@ -16,7 +16,7 @@
 - workshops focused on [python](https://github.com/bioinfwithjudith/PR-INBRE_Python_Workshop) and sketching programs
 
 ### Past projects:
-- [Use case exazmples][https://github.com/KoslickiLab/YACHT/tree/main/use_case_examples] for YACHT
+- [Use case examples](https://github.com/KoslickiLab/YACHT/tree/main/use_case_examples) for YACHT
 - identify robust features of mRNA degradation using feature selection models 
 - [YeasTSS](http://www.yeastss.org)
 - identify unique motifs for biosensor development using multiple sequence alignments
