@@ -1,7 +1,7 @@
 ## Welcome to (bioinf)ormatics (with) (judith)! 👋
 
 ### About me:
-- Ph.D. Candidate in Bioinformatics and Genomics, part of the [Koslicki](https://koslickilab.github.io/Koslicki-lab-PSU/) Lab 
+- Ph.D. in Bioinformatics and Genomics, advised by [Koslicki](https://koslickilab.github.io/Koslicki-lab-PSU/) Lab 
   - Master's in Bionformatics and Computational Biology
   - Majored in Cellular Molecular Biology
 - Interests:
