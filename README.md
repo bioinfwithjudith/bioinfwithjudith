@@ -8,7 +8,7 @@
   - protein-coding sequences, transcriptome, genomics, metagenomics
   - connecting biologists and computationalists through collaborative projects
   - introducing and teaching bioinformatic skills to beginners through workshops
-- Contact: jzr5814@psu.edu
+- Contact: judiths.r91@gmail.com
 
 ### Current projects:
 - alignment-free dN/dS estimator [FracMinHash dN/dS](https://github.com/KoslickiLab/dnds-using-fmh/blob/dev_jzr2/src/) 
