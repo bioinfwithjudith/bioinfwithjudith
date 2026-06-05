@@ -17,7 +17,7 @@
 - identification for genomic regions under selection
 
 ### Past projects:
-- [Use case examples](https://github.com/KoslickiLab/YACHT/tree/main/use_case_examples) for YACHT
+- [Use case examples](https://github.com/KoslickiLab/YACHT/tree/main/use_case_examples) for [YACHT](https://github.com/KoslickiLab/YACHT)
 - workshops focused on [python](https://github.com/bioinfwithjudith/PR-INBRE_Python_Workshop) and sketching programs
 - identify robust features of mRNA degradation using feature selection models 
 - [YeasTSS](http://www.yeastss.org)
