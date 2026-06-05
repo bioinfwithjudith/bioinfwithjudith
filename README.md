@@ -10,16 +10,18 @@
   - introducing and teaching bioinformatic skills to beginners through workshops
 - Contact: judiths.r91@gmail.com
 
-### Current projects:
-- alignment-free dN/dS estimator [FracMinHash dN/dS](https://github.com/KoslickiLab/dnds-using-fmh/blob/dev_jzr2/src/) 
+### Current GitHub projects:
+- reference-based alignment and assembly of [Long Read Oxford Nanopore dRNA-sequencing Assembly](https://github.com/bioinfwithjudith/ONT_RNA_Assembly_PR-INBRE_pipeline)
+- alignment-free dN/dS estimator: [FracMinHash dN/dS](https://github.com/KoslickiLab/dnds-using-fmh/blob/dev_jzr2/src/) 
 - identification for genomic regions under selection
-- workshops focused on [python](https://github.com/bioinfwithjudith/PR-INBRE_Python_Workshop) and sketching programs
 
 ### Past projects:
 - [Use case examples](https://github.com/KoslickiLab/YACHT/tree/main/use_case_examples) for YACHT
+- workshops focused on [python](https://github.com/bioinfwithjudith/PR-INBRE_Python_Workshop) and sketching programs
 - identify robust features of mRNA degradation using feature selection models 
 - [YeasTSS](http://www.yeastss.org)
 - identify unique motifs for biosensor development using multiple sequence alignments
+  
 <!--
 ### :hammer_and_pick: Tech stack
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=blue)
