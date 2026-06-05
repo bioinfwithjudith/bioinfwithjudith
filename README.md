@@ -1,7 +1,7 @@
 ## Welcome to (bioinf)ormatics (with) (judith)! 👋
 
 ### About me:
-- Bioinformatics consultant for PR-INBRE Researchers
+- Bioinformatics consultant for [PR-INBRE](https://inbre.hpcf.upr.edu/) Researchers
 - Ph.D. in Bioinformatics and Genomics, advised by [Koslicki](https://koslickilab.github.io/Koslicki-lab-PSU/) Lab 
   - Master's in Bionformatics and Computational Biology
   - Majored in Cellular Molecular Biology
